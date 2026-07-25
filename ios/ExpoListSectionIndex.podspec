@@ -5,6 +5,7 @@ Pod::Spec.new do |s|
   s.description    = 'Adds SwiftUI sectionIndexLabel and listSectionIndexVisibility modifiers to Expo UI.'
   s.author         = 'Elcaten'
   s.homepage       = 'https://github.com/Elcaten/expo-list-section-index'
+  s.license        = { :type => 'MIT', :file => '../LICENSE' }
   s.platforms      = { :ios => '16.4' }
   s.swift_version  = '5.9'
   s.source         = {
